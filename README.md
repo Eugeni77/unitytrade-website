@@ -7,7 +7,7 @@
 
 Welcome to UnityTrade, an innovative single-page application (SPA) designed for a seamless and engaging online shopping experience. Built with React and powered by Vite for blazing-fast performance, UnityTrade brings the convenience of an intuitive and responsive design to your fingertips.
 
-At the heart of UnityTrade is our commitment to a user-friendly shopping environment. Our application features a dynamic product carousel, a comprehensive product section with detailed descriptions and images, and an easily navigable interface ensured by React Router. Tailwind CSS and React Hook Form contribute to the polished aesthetic and functionality, offering users an aesthetically pleasing layout with smooth, responsive forms for a hassle-free shopping experience.
+At the heart of UnityTrade is our commitment to a user-friendly shopping environment. Our application features a dynamic product carousel, a comprehensive product section with detailed descriptions and images, and an easily navigable interface ensured by React Router. Tailwind CSS and React Hook Form contribute to the polished aesthetic and functionality, offering users an aesthetically pleasing layout with smooth, responsive forms for a hassle-free shopping.
 
 Whether you're browsing on your phone or desktop, UnityTrade delivers a consistent and accessible shopping platform. Our application uses mock data from a JSON file, simulating a real eCommerce environment where users can explore products, learn about new arrivals, and discover exclusive deals.
 
